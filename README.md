@@ -10,8 +10,7 @@ Skills: C++ / C / Python / DSA / Android Studios / GIT
 - 👯 I’m looking to collaborate on Android projects. 
 - 📫 How to reach me: tanishapandey050@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishaPandey-2019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tanisha-pandey//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/TanishaPandey19)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanisha-pandey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TanishaPandey19)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanishaPandey-2019)](https://github.com/ryo-ma/github-profile-trophy)
 
