@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tanisha Pandey.
 #### VIT'23, Information Technology
-![VIT'23, Information Technology](https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif)
+![VIT'23, Information Technology](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 An undergraduate student seeking to leverage solid development skills with a focus on collaboration, communication, passion and creativity into an engineering role that allows me to create engaging projects and user experiences.
 
