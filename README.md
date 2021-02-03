@@ -6,8 +6,8 @@ An undergraduate student seeking to leverage solid development skills with a foc
 
 Skills: C++ / C / Python / DSA / Android Studios / GIT
 
-- 🌱 I’m currently learning Mobile development. 
-- 👯 I’m looking to collaborate on Android development projects. 
+- 🌱 I’m currently learning Mobile development 
+- 👯 I’m looking to collaborate on Android development projects 
 - 📫 How to reach me: tanishapandey050@gmail.com 
 
 
