@@ -7,10 +7,18 @@ An undergraduate student seeking to leverage solid development skills with a foc
 Skills: C++ / C / Python / DSA / Android Studios / GIT
 
 - 🌱 I’m currently learning Mobile development. 
-- 👯 I’m looking to collaborate on Android projects. 
+- 👯 I’m looking to collaborate on Android development projects. 
 - 📫 How to reach me: tanishapandey050@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanisha-pandey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TanishaPandey19)  
+
+### You can find in me in the web 🌍
+
+<a href="https://www.linkedin.com/in/tanisha-pandey/">
+  <img align="left" alt="Tanisha's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> 
+<a href="https://twitter.com/TanishaPandey19">
+  <img align="left" alt="Tanisha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanishaPandey-2019)](https://github.com/ryo-ma/github-profile-trophy)
 
