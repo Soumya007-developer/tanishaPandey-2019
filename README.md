@@ -14,17 +14,19 @@ Skills: C++ / C / Python / DSA / Android Studios / GIT
 ### You can find in me in the web 🌍
 
 <a href="https://www.linkedin.com/in/tanisha-pandey/">
-  <img align="left" alt="Tanisha's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tanisha's LinkdeIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
 <a href="https://twitter.com/TanishaPandey19">
-  <img align="left" alt="Tanisha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
+  <img align="left" alt="Tanisha's Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a><br><br>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanishaPandey-2019)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaPandey-2019)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishaPandey-2019&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishaPandey-2019&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaPandey-2019)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanishaPandey-2019)  
 
