@@ -30,7 +30,7 @@ Skills: C++ / C / Python / DSA / Android Studios / GIT
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanishaPandey-2019)  
 
-![GitHub metrics](https://metrics.lecoq.io/tanishaPandey-2019)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanishaPandey-2019)  
 
